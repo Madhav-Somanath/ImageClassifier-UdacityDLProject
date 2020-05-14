@@ -1,14 +1,14 @@
 # Image-Classifier using TensorFlow on "Oxford of 102 flower" Dataset
-Image classifier using tensorflow transferlearning, Machine Learning Nanodegree, Udacity
+Image classifier using tensorflow transferlearning, Introduction to Machine learning using Tensorflow Nanodegree, Udacity
 
-In this project, I trained an image classifier to recognize different species of flowers. I trained this classifier, then exported it for use in my application. I used this dataset from Oxford of 102 flower categories.
+This project includes training an image classifier to recognize different species of flowers. This classifier is then exported it for use in a cli application. Dataset is taken from : https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
 <img src='assets/Flowers.png' width=500px>
 
 The project is broken down into multiple steps:
 
-Loading the image dataset and create a pipeline.
-Building and Training an image classifier on this dataset.
-Using the trained model to perform inference on flower images.
+1. Loading the image dataset and create a pipeline.
+2. Building and Training an image classifier on this dataset.
+3. Using the trained model to perform inference on flower images.
 
 <br>
 Note: Dataset needs to be downloaded locally to run model. 
