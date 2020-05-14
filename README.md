@@ -11,4 +11,4 @@ Building and Training an image classifier on this dataset.
 Using the trained model to perform inference on flower images.
 
 <br>
-**Note:** Dataset needs to be downloaded locally to run model. 
+Note: Dataset needs to be downloaded locally to run model. 
